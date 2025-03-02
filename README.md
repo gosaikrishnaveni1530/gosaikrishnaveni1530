@@ -10,25 +10,17 @@ I have a huge interest coding and as well as designing👩‍💻! Currently stu
 Currently I am a member in Project Team of EWB CBIT Club🌱, and also member in Design Team of Chaitanya Kreeda Club🏏.
 
 ### Tools:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> HTML
-<BR>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> CSS
-<BR>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JAVA SCRIPT
-<BR>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> GIT
-<BR>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/> MY SQL
-<BR>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="20"/> VISUAL STUDIO
-<BR>
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) CANVA
-Skills: 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> HTML  
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> CSS   <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JAVA SCRIPT  <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> GIT  <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/> MY SQL  <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="20"/> VISUAL STUDIO  <br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Canva_Logo.png" width="20"/> CANVA
 
-Philippines 
-https://mikxherrera.github.io/
-@nikcherrera 
-Community Management | Mobile and Web Development | Project Management 
-- 🌱 I’m currently pursuing BE in Artificial Intelligence and Data Science
+### Skills: 
+C PROGRAMMING | PYTHON | HTML | CSS |  DESIGNING | LINUX | R PROGRAMMING
+
   
 

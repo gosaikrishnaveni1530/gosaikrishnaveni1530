@@ -11,12 +11,18 @@ Currently I am a member in Project Team of EWB CBIT Club🌱, and also member in
 
 ### Tools:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> HTML
+<BR>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> CSS
+<BR>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JAVA SCRIPT
+<BR>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> GIT
+<BR>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/> MY SQL
+<BR>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="20"/> VISUAL STUDIO
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Canva_Logo.png" alt="Canva" width="20"/> CANVA
+<BR>
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) CANVA
 Skills: 
 
 Philippines 

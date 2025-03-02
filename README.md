@@ -3,7 +3,7 @@ Welcome to my Profile 👇
 
 
 
-![github_banner](https://github.com/user-attachments/assets/3c60e51d-463f-4120-a75b-c92b1140feac)
+![github_banner](https://github.com/user-attachments/assets/3c60e51d-463f-4120-a75b-c92b1140feac "width:100px")
 
 <!--
 **gosaikrishnaveni1530/gosaikrishnaveni1530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
